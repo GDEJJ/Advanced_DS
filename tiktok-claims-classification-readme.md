@@ -98,4 +98,4 @@ data.describe()
 ```
 
 ## Contact
-[Your Name] - [Your Email/LinkedIn/GitHub]
+[Odejayi olamide] - [odejayiolamide@gmail.com]
