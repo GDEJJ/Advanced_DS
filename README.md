@@ -11,7 +11,7 @@ This repository contains both the initial data exploration and detailed explorat
 - Gather and analyze descriptive statistics
 - Identify potential features for claims classification
 
-## TikTok Claims Classification Project - Executive Summary
+## Executive Summary
 
 ### Data Composition
 - The dataset contains 19,382 videos with nearly equal distribution between claims (49.6%) and opinions (50.4%)
